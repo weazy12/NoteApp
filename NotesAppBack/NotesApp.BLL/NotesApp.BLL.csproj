@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Validator\Note\NewFolder\**" />
+    <EmbeddedResource Remove="Validator\Note\NewFolder\**" />
+    <None Remove="Validator\Note\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.1.0" />
+    <PackageReference Include="FluentResults" Version="4.0.0" />
+    <PackageReference Include="FluentValidation" Version="12.1.0" />
+    <PackageReference Include="MediatR" Version="13.1.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotesApp.DAL\NotesApp.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

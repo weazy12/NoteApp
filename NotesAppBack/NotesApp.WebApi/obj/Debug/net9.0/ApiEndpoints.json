@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "NotesApp.WebApi.Controllers.Note.NotesController",
+    "Method": "Create",
+    "RelativePath": "api/Notes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createNoteDto",
+        "Type": "NotesApp.BLL.DTOs.Note.CreateNoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotesApp.WebApi.Controllers.Note.NotesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Notes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotesApp.WebApi.Controllers.Note.NotesController",
+    "Method": "GetById",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotesApp.WebApi.Controllers.Note.NotesController",
+    "Method": "Delete",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotesApp.WebApi.Controllers.Note.NotesController",
+    "Method": "Update",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateNoteDto",
+        "Type": "NotesApp.BLL.DTOs.Note.UpdateNoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
