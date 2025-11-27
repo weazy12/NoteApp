@@ -2,6 +2,7 @@ import {useState} from "react";
 import type {CreateNoteDto} from "../../models/note.ts";
 import {useAppDispatch} from "../../hooks/redux.ts";
 import {createNote} from "../../store/reducers/NoteSlice.ts";
+import {useTranslation} from "react-i18next";
 
 
 interface CreateNoteFormProps {
@@ -14,6 +15,7 @@ const CreateNoteFrom = ({onTaskCreated} : CreateNoteFormProps ) => {
     const [error, setError] = useState<string|null>(null);
     const [loading, setLoading] = useState(false);
 
+    const {t} = useTranslation();
     const dispatch = useAppDispatch();
 
     const handleSubmit = async (e: { preventDefault: () => void; }) => {
@@ -57,7 +59,7 @@ const CreateNoteFrom = ({onTaskCreated} : CreateNoteFormProps ) => {
             required/>
             {error && <p>{error}</p>}
             <button type='submit' disabled={loading}>
-                {loading ? "Creating..." : 'Create note'}
+                {loading ? t('creating') : (t('createNote'))}
             </button>
         </form>
     );

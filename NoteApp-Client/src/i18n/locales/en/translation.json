@@ -1,0 +1,11 @@
+{
+  "noteList": "Note list",
+  "createNote": "Create Note",
+  "updateNote": "Update Note",
+  "updating": "Updating...",
+  "delete": "Delete",
+  "title": "Title",
+  "content": "Content",
+  "cancel": "Cancel",
+  "loading": "Loading"
+}

@@ -2,6 +2,7 @@ import type {NoteDto} from "../../models/note.ts";
 import {type FormEvent, useState} from "react";
 import {useAppDispatch} from "../../hooks/redux.ts";
 import {updateNote} from "../../store/reducers/NoteSlice.ts";
+import {useTranslation} from "react-i18next";
 
 
 interface EditNoteFormProps {
@@ -16,6 +17,7 @@ const UpdateNoteForm = ({ note, onTaskUpdated } : EditNoteFormProps) => {
     const [loading, setLoading] = useState(false);
 
     const  dispatch = useAppDispatch();
+    const {t} = useTranslation();
 
     const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
         e.preventDefault();
@@ -47,7 +49,7 @@ const UpdateNoteForm = ({ note, onTaskUpdated } : EditNoteFormProps) => {
                 required/>
             {error && <p style={{color: "red"}}>{error}</p>}
             <button type="submit" disabled={loading}>
-                {loading ? "Updating..." : "Update note"}
+                {loading ? t('updating'): t('updateNote')}
             </button>
         </form>
     );

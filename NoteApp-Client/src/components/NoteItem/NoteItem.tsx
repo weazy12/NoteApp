@@ -4,11 +4,13 @@ import {deleteNote} from "../../store/reducers/NoteSlice.ts";
 import {useAppDispatch} from "../../hooks/redux.ts";
 import UpdateNoteForm from "../EditNoteForm/UpdateNoteForm.tsx";
 import {useState} from "react";
+import {useTranslation} from "react-i18next";
 
 
 const NoteItem = ({note}: NoteItemProps) => {
     const dispatch = useAppDispatch();
     const [isEditing, setIsEditing] = useState(false);
+    const {t} = useTranslation();
 
     const handleDelete = () => {
             dispatch(deleteNote(note.id));
@@ -27,16 +29,16 @@ const NoteItem = ({note}: NoteItemProps) => {
                         className={styles['noteDeleteBtn']}
                         onClick={handleDelete}
                     >
-                        Delete
+                        {t('delete')}
                     </button>
                     <button onClick={() => setIsEditing(true)}>
-                        Edit
+                        {t("updateNote")}
                     </button>
                     {isEditing && (
                             <div className={styles.overlay}>
                                 <div className={styles.modal}>
                                     <UpdateNoteForm note={note} onTaskUpdated={handleUpdated} />
-                                    <button onClick={() => setIsEditing(false)}>Cancel</button>
+                                    <button onClick={() => setIsEditing(false)}>{t("cancel")}</button>
                                 </div>
                             </div>
                         )}
