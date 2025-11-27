@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GI7CJScilBc=",
+  "dgSpecHash": "kkiBAj4+qb4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valentyn\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Valentyn\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -7,14 +7,12 @@ interface NotesState {
     notes: NoteDto[];
     loading: boolean;
     error: string | null;
-    selectedNote: NoteDto| null;
 }
 
 const initialState: NotesState = {
     notes: [],
     loading: false,
     error: null,
-    selectedNote: null,
 }
 
 
@@ -71,12 +69,7 @@ export const noteSlice = createSlice({
     name: 'notes',
     initialState,
     reducers:{
-        setSelectedNote: (state, action) => {
-            state.selectedNote = action.payload;
-        },
-        clearSelectedNote: (state) => {
-            state.selectedNote = null;
-        }
+
     },
     extraReducers: (builder) => {
         builder
@@ -139,5 +132,4 @@ export const noteSlice = createSlice({
     }
 })
 
-export const { setSelectedNote, clearSelectedNote } = noteSlice.actions;
 export default noteSlice.reducer;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yv5rnvrWgk8=",
+  "dgSpecHash": "mPgDpK//QDE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valentyn\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\Valentyn\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

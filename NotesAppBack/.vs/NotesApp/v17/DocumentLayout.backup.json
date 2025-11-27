@@ -1,165 +1,165 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\",
+  "WorkspaceRootPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\realizations\\base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\realizations\\base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\realizations\\base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\create\\createnotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\create\\createnotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\create\\createnotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|solutionrelative:notesapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\data\\notesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\data\\notesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\data\\notesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\validator\\note\\basenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\validator\\note\\basenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\validator\\note\\basenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\validator\\note\\updatenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\validator\\note\\updatenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\validator\\note\\updatenotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\validator\\note\\createnotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\validator\\note\\createnotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\validator\\note\\createnotevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\update\\updatenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\update\\updatenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\update\\updatenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\realizations\\base\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\realizations\\base\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\realizations\\base\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.webapi\\controllers\\note\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.webapi\\controllers\\note\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|solutionrelative:notesapp.webapi\\controllers\\note\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\update\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\update\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\update\\updatenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\delete\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\delete\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\delete\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|solutionrelative:notesapp.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\delete\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\delete\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\delete\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\getbyid\\getnotebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\create\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\create\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\create\\createnotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\getall\\getallnoteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\getall\\getallnoteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\getall\\getallnoteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\note\\getall\\getallnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\note\\getall\\getallnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\note\\getall\\getallnotesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\bllassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\bllassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\bllassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\services\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\services\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\services\\logging\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\interfaces\\logging\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\interfaces\\logging\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\interfaces\\logging\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mapping\\note\\noteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mapping\\note\\noteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mapping\\note\\noteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\mediatr\\resultvariations\\nullresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\mediatr\\resultvariations\\nullresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\mediatr\\resultvariations\\nullresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.bll\\notesapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.bll\\notesapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E736860A-75DD-4CE3-B0D1-1EFB713584C5}|NotesApp.BLL\\NotesApp.BLL.csproj|solutionrelative:notesapp.bll\\notesapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\notesapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\notesapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\notesapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.webapi\\notesapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.webapi\\notesapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|solutionrelative:notesapp.webapi\\notesapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\realizations\\note\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\realizations\\note\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\realizations\\note\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\interfaces\\note\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\interfaces\\note\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\interfaces\\note\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\interfaces\\base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\interfaces\\base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\interfaces\\base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\repositories\\interfaces\\base\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\repositories\\interfaces\\base\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\repositories\\interfaces\\base\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{488647B3-584F-4093-B199-496B71979F7A}|NotesApp.WebApi\\NotesApp.WebApi.csproj|solutionrelative:notesapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\migrations\\20251124131031_remove created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\migrations\\20251124131031_remove created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\migrations\\20251124131031_remove created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\migrations\\20251124101207_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\migrations\\20251124101207_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\migrations\\20251124101207_initial database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp-server\\notesappback\\notesapp.dal\\migrations\\20251125121703_add field created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|c:\\users\\valentyn\\desktop\\notesapp\\notesappback\\notesapp.dal\\migrations\\20251125121703_add field created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{353B49CF-3918-4274-9016-5289CDE14D15}|NotesApp.DAL\\NotesApp.DAL.csproj|solutionrelative:notesapp.dal\\migrations\\20251125121703_add field created at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -170,15 +170,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:381088887:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryBase.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,9 +236,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NoteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
               "RelativeToolTip": "NotesApp.BLL\\DTOs\\Note\\NoteDto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,9 +248,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CreateNoteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
               "RelativeToolTip": "NotesApp.BLL\\DTOs\\Note\\CreateNoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UpdateNoteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
               "RelativeToolTip": "NotesApp.BLL\\DTOs\\Note\\UpdateNoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "20251125121703_Add field created At.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
               "RelativeToolTip": "NotesApp.DAL\\Migrations\\20251125121703_Add field created At.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +284,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ValidationBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
               "RelativeToolTip": "NotesApp.BLL\\Behavior\\ValidationBehaviour.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvyMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:13:41.203Z",
               "EditorCaption": ""
@@ -249,9 +297,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UpdateNoteHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,9 +309,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "CreateNoteValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
               "RelativeToolTip": "NotesApp.BLL\\Validator\\Note\\CreateNoteValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,9 +321,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CreateNoteHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteHandler.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwBkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Entities\\Note.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Entities\\Note.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Entities\\Note.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Entities\\Note.cs",
               "RelativeToolTip": "NotesApp.DAL\\Entities\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "NotesApp.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Program.cs",
               "RelativeToolTip": "NotesApp.WebApi\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwEgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BaseNoteValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
               "RelativeToolTip": "NotesApp.BLL\\Validator\\Note\\BaseNoteValidator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwBUAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,9 +369,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "NotesAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Data\\NotesAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Data\\NotesAppDbContext.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Data\\NotesAppDbContext.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Data\\NotesAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Data\\NotesAppDbContext.cs",
               "RelativeToolTip": "NotesApp.DAL\\Data\\NotesAppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
               "RelativeDocumentMoniker": "NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
               "RelativeToolTip": "NotesApp.WebApi\\Controllers\\Note\\NotesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UpdateNoteValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
               "RelativeToolTip": "NotesApp.BLL\\Validator\\Note\\UpdateNoteValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,9 +405,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Realizations\\Base\\RepositoryWrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -369,9 +417,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "UpdateNoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Update\\UpdateNoteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +429,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "GetNoteByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -393,9 +441,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "GetNoteByIdHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\GetById\\GetNoteByIdHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,9 +453,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DeleteNoteHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteHandler.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,9 +465,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "DeleteNoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Delete\\DeleteNoteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,9 +477,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Controllers\\BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "NotesApp.WebApi\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\Controllers\\BaseController.cs",
               "RelativeToolTip": "NotesApp.WebApi\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,9 +489,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "CreateNoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\Create\\CreateNoteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -453,9 +501,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "20251124131031_Remove created at.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
               "RelativeToolTip": "NotesApp.DAL\\Migrations\\20251124131031_Remove created at.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -465,9 +513,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "BllAssemblyMarker.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\BllAssemblyMarker.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\BllAssemblyMarker.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\BllAssemblyMarker.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\BllAssemblyMarker.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\BllAssemblyMarker.cs",
               "RelativeToolTip": "NotesApp.BLL\\BllAssemblyMarker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -477,9 +525,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "GetAllNotesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -489,9 +537,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "GetAllNotesHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\Note\\GetAll\\GetAllNotesHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -501,9 +549,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "LoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
               "RelativeToolTip": "NotesApp.BLL\\Services\\Logging\\LoggerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -513,9 +561,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ILoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
               "RelativeToolTip": "NotesApp.BLL\\Interfaces\\Logging\\ILoggerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -525,9 +573,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "NoteProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mapping\\Note\\NoteProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,9 +585,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "NullResult.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
               "RelativeDocumentMoniker": "NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
               "RelativeToolTip": "NotesApp.BLL\\Mediatr\\ResultVariations\\NullResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,9 +597,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "NotesApp.BLL.csproj",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
               "RelativeDocumentMoniker": "NotesApp.BLL\\NotesApp.BLL.csproj",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.BLL\\NotesApp.BLL.csproj",
               "RelativeToolTip": "NotesApp.BLL\\NotesApp.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -561,9 +609,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "NotesApp.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
               "RelativeDocumentMoniker": "NotesApp.DAL\\NotesApp.DAL.csproj",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
               "RelativeToolTip": "NotesApp.DAL\\NotesApp.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -573,9 +621,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "NotesApp.WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\NotesApp.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\NotesApp.WebApi.csproj",
               "RelativeDocumentMoniker": "NotesApp.WebApi\\NotesApp.WebApi.csproj",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\NotesApp.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\NotesApp.WebApi.csproj",
               "RelativeToolTip": "NotesApp.WebApi\\NotesApp.WebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -585,9 +633,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Realizations\\Note\\NoteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,9 +645,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "INoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Interfaces\\Note\\INoteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,9 +657,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryWrapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,9 +669,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
               "RelativeToolTip": "NotesApp.DAL\\Repositories\\Interfaces\\Base\\IRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -633,9 +681,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "20251124101207_Initial database.cs",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
               "RelativeDocumentMoniker": "NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
               "RelativeToolTip": "NotesApp.DAL\\Migrations\\20251124101207_Initial database.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,9 +693,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "NotesApp.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.WebApi\\appsettings.json",
               "RelativeToolTip": "NotesApp.WebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -1,62 +1,39 @@
 import { useAppDispatch, useAppSelector } from "../../hooks/redux.ts";
-import { useEffect, useState } from "react";
-import { fetchNotes, clearSelectedNote } from "../../store/reducers/NoteSlice.ts";
+import { useEffect, useState} from "react";
+import { fetchNotes} from "../../store/reducers/NoteSlice.ts";
 import NotesList from "../NotesList/NotesList.tsx";
-import NoteForm from "../NoteForm/NoteForm.tsx";
 import styles from "./Board.module.scss";
+import CreateNoteFrom from "../CreateNoteForm/CreateNoteFrom.tsx";
 
 const Board = () => {
-    const [openModal, setOpenModal] = useState(false);
-
     const dispatch = useAppDispatch();
-    const { notes, loading, error, selectedNote } = useAppSelector(state => state.noteReducer);
+    const {notes, loading,error} = useAppSelector(state => state.noteReducer);
+    const [openModal, setOpenModal] = useState(false)
 
     useEffect(() => {
         dispatch(fetchNotes());
     }, [dispatch]);
 
-    // Автоматично відкриваємо модалку при виборі нотатки для редагування
-    useEffect(() => {
-        if (selectedNote) {
-            // eslint-disable-next-line react-hooks/set-state-in-effect
-            setOpenModal(true);
-        }
-    }, [selectedNote]);
-
-    const handleTaskCreated = () => {
-        dispatch(fetchNotes());
+    const handleTaskCreated = () =>{
         setOpenModal(false);
-        dispatch(clearSelectedNote());
-    };
+    }
 
-    const handleCloseModal = () => {
-        setOpenModal(false);
-        dispatch(clearSelectedNote());
-    };
 
     return (
         <div className={styles.board}>
             <h1 className={styles.header}>Note list</h1>
-            <button
-                className={styles.createBtn}
-                onClick={() => setOpenModal(true)}
-            >
-                + Create task
+            <button onClick={() => setOpenModal(true)}>
+                Create new note
             </button>
             {openModal && (
                 <div className={styles.overlay}>
                     <div className={styles.modal}>
-                        <h2>{selectedNote ? 'Edit Task' : 'Create Task'}</h2>
-                        <NoteForm onTaskCreated={handleTaskCreated} />
-                        <button
-                            className={styles.closeButton}
-                            onClick={handleCloseModal}
-                        >Close
-                        </button>
+                        <CreateNoteFrom onTaskCreated={handleTaskCreated}/>
+                        <button onClick={() => setOpenModal(false)}>Cancel</button>
                     </div>
+
                 </div>
             )}
-
             {loading && <p>Loading...</p>}
             {error && <p className="error">{error}</p>}
             <NotesList notes={notes} />

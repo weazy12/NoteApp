@@ -4718,11 +4718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
       "projectName": "NotesApp.DAL",
-      "projectPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
+      "projectPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\NotesApp.DAL.csproj",
       "packagesPath": "C:\\Users\\Valentyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp-Server\\NotesAppBack\\NotesApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Valentyn\\Desktop\\NotesApp\\NotesAppBack\\NotesApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
